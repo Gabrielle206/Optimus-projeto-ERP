@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="docs/menu-principal.png" alt="Menu principal do Optimus ERP" width="480" />
+<img src="docs/tela-inicial.jpeg" alt="Menu principal do Optimus ERP" width="480" />
 
 </div>
 
