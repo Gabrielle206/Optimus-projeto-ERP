@@ -1,5 +1,3 @@
-![Uploading tela-inicial.jpeg…]()
-<div align="center">
 
 # 📦 Optimus ERP
 
